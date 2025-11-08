@@ -1,6 +1,6 @@
 # Mi portfolio personal
 
-¡Hola! 👋 Bienvenido al repositorio de mi portafolio personal. Este es un proyecto creado para demostrar mis habilidades como **Desarrollador**,
+¡Hola! 👋 Bienvenido al repositorio de mi portafolio personal. Este es un proyecto creado para demostrar mis habilidades como **Desarrollador**
 
 [![Estado del Proyecto](https://img.shields.io/badge/estado-en_desarrollo-yellowgreen.svg)](https://cobian04.github.io/Portfolio/)
 
